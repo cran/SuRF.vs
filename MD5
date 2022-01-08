@@ -1,4 +1,4 @@
-696920ef8c7b2c063ef53716f361ea2f *DESCRIPTION
+33871b454a29e026f6a31216e3ecfb58 *DESCRIPTION
 1074074030d13b3f66abc1e278929f51 *NAMESPACE
 8efcfe0abe4778d7a0b086ca332d6810 *R/SURF.R
 0c231316b2dccb667868a4cc123b4328 *R/Subsamp.w.R
@@ -13,12 +13,12 @@ aaa856f796b7cb1e1bec0655d5c087ed *R/selvar_alpha.R
 fe8ea1cfe667fd07092acc2f454091bc *R/update.dev.R
 fbd9e0010a3bb981c0f7798e3ac0bacf *R/update.dev_cox.R
 43712810c877d105a8144f1e242995cd *build/vignette.rds
-5a4a35fdd4176c4c330dcb292a77581b *inst/doc/SURF.R
-a466fb2efdbae7303b74d458a27cff84 *inst/doc/SURF.Rmd
-e7a20c8bbadd343966d1058c60673943 *inst/doc/SURF.html
+758c7b234d230739cd1b4809ee8c7bd8 *inst/doc/SURF.R
+f165a59cbeeb7ea62bcfd91778b570f7 *inst/doc/SURF.Rmd
+6995c8cb98510ff19f45d2a3b90ba4e2 *inst/doc/SURF.html
 9bd8ddd06acbfad332d12c526857fc66 *man/Ranking.Rd
 731baa2a8440ea4bc1fc361cf2675122 *man/Ranking_cox.Rd
-fcbcbcd6f938411c15b5c7246351e485 *man/SURF.Rd
+af34743d68eec0af124d2b875c10f0ef *man/SURF.Rd
 2a071b7218e6b74cb550db5c8dd2cd19 *man/Subsample.w.Rd
 c5fbecb5d421581463814dbf8a70672d *man/Subsample.w_cox.Rd
 2b0160915e997dcc1996c70b9eb3f334 *man/Subsample_B.Rd
@@ -28,4 +28,4 @@ ca7e4875ff6827e31d5188eb2486e9f3 *man/selpath.Rd
 2566adcd1c8511583a918843a23651d0 *man/selvar_alpha.Rd
 86f2a2ca1d2034d0f36f6b259ae039e5 *man/update.dev.Rd
 8d9db57230bb6177e3e8a9b146a9662a *man/update.dev_cox.Rd
-a466fb2efdbae7303b74d458a27cff84 *vignettes/SURF.Rmd
+f165a59cbeeb7ea62bcfd91778b570f7 *vignettes/SURF.Rmd

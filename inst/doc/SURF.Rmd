@@ -57,6 +57,9 @@ knitr::opts_chunk$set(
 )
 ```
 ```{r}
+
+set.seed(12345)
+
 library(SuRF.vs)
 N=50
 p=20
